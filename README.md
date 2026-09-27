@@ -10,10 +10,6 @@
 
 ## 🧑‍💻 Sobre mim
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 Sou um desenvolvedor com foco atual em **Frontend**, construindo interfaces limpas, responsivas e funcionais.
 
 Antes de focar em frontend, passei por diferentes áreas — o que me deu uma boa base para entender o produto como um todo, do banco de dados à tela do usuário.
@@ -24,30 +20,19 @@ Antes de focar em frontend, passei por diferentes áreas — o que me deu uma bo
 - 🌱 &nbsp;Sempre estudando e evoluindo como dev
 - 💬 &nbsp;Aberto a oportunidades em frontend, mobile ou full-stack
 
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=4rthur-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 ## 🧰 Stack & Ferramentas
 
 <div align="center">
 
-**Linguagens & Frameworks**
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,dart,flutter&theme=dark" /><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,dart,flutter&theme=dark" />
-
-<br/><br/>
-
-**Banco de dados & Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=mysql,vscode,figma,git,github&theme=dark" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -57,8 +42,7 @@ Antes de focar em frontend, passei por diferentes áreas — o que me deu uma bo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rthur-dev&layout=compact&theme=tokyonight&hide_border=true" width="46%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4rthur-dev&theme=tokyonight&hide_border=true" width="46%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4rthur-dev&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
@@ -66,23 +50,10 @@ Antes de focar em frontend, passei por diferentes áreas — o que me deu uma bo
 
 ## 📌 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/4rthur-dev/API-Busca-de-CEP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rthur-dev&repo=API-Busca-de-CEP&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/4rthur-dev/API-Weather">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rthur-dev&repo=API-Weather&theme=tokyonight&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/4rthur-dev/TELA-IMC--CALCULADORA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rthur-dev&repo=TELA-IMC--CALCULADORA&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/4rthur-dev/Sistema-Bancario-Java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rthur-dev&repo=Sistema-Bancario-Java&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+- 🔎 **[API-Busca-de-CEP](https://github.com/4rthur-dev/API-Busca-de-CEP)** — Aplicação desktop em Python (PyQt5) que consulta a API ViaCEP para buscar endereços a partir de um CEP.
+- 🌦️ **[API-Weather](https://github.com/4rthur-dev/API-Weather)** — API em Python com interface gráfica PyQt para exibir informações climáticas de qualquer cidade.
+- 📱 **[TELA-IMC--CALCULADORA](https://github.com/4rthur-dev/TELA-IMC--CALCULADORA)** — App Flutter com calculadora básica e cálculo de IMC.
+- 🏦 **[Sistema-Bancario-Java](https://github.com/4rthur-dev/Sistema-Bancario-Java)** — Simulador de operações bancárias em Java, com foco em POO.
 
 <br/>
 
