@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou um desenvolvedor com foco atual em **Frontend**, construindo interfaces limpas, responsivas e funcionais.
+Atualmente estou cursando Desenvolvimento de Sistemas no Senac e tenho foco total para o Frontend.
 
 Antes de focar em frontend, passei por diferentes áreas — o que me deu uma boa base para entender o produto como um todo, do banco de dados à tela do usuário.
 
