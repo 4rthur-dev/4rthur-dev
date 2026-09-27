@@ -17,7 +17,7 @@ Antes de focar em frontend, passei por diferentes áreas — o que me deu uma bo
 - 🖥️ &nbsp;Foco atual: **Frontend**
 - 🧠 &nbsp;Também já trabalhei com: **Python · Java · SQL Server · Flutter · Dart**
 - 🛠️ &nbsp;Ferramentas do dia a dia: **VS Code · Figma · GitHub**
-- 🌱 &nbsp;Sempre estudando e evoluindo como dev
+- 🌱 &nbsp;Sempre estudando e aprendendo algo novo para evoluir como dev
 - 💬 &nbsp;Aberto a oportunidades em frontend, mobile ou full-stack
 
 <br/>
