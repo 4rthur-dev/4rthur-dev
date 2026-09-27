@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Arthur 👋</h1>
+<h1 align="center"> 👨‍💻Arthur</h1>
 
 <h3 align="center">Desenvolvedor Frontend em formação, com base sólida em várias linguagens</h3>
 
