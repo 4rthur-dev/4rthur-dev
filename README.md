@@ -1,62 +1,93 @@
-<h1 align="center"> 👨‍💻Arthur</h1>
+<div align="center">
 
-<h3 align="center">Desenvolvedor Frontend em formação, com base sólida em várias linguagens</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:02569B&height=200&section=header&text=Arthur%20Damião%20Miguel&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Frontend&descSize=20&descAlignY=58" width="100%"/>
 
-<p align="center">
-  🎯 Focado em construir interfaces limpas e funcionais, com experiência prévia em backend, mobile e bancos de dados.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Desenvolvedor+Frontend+em+forma%C3%A7%C3%A3o;Python+%7C+Java+%7C+SQL+Server+%7C+Flutter+%7C+Dart;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" />
 
----
+</div>
 
-### 🚀 Sobre mim
+<br/>
 
-- 🖥️ Foco atual: **Desenvolvimento Frontend**
-- 🧠 Também já trabalhei com: Python, Java, SQL Server, Flutter e Dart
-- 🌱 Sempre aprendendo e evoluindo como desenvolvedor
-- 🛠️ Ferramentas do dia a dia: VS Code, Figma e GitHub
+## 🧑‍💻 Sobre mim
 
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### 🧰 Stack e Ferramentas
+Sou um desenvolvedor com foco atual em **Frontend**, construindo interfaces limpas, responsivas e funcionais.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
+Antes de focar em frontend, passei por diferentes áreas — o que me deu uma boa base para entender o produto como um todo, do banco de dados à tela do usuário.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+- 🖥️ &nbsp;Foco atual: **Frontend**
+- 🧠 &nbsp;Também já trabalhei com: **Python · Java · SQL Server · Flutter · Dart**
+- 🛠️ &nbsp;Ferramentas do dia a dia: **VS Code · Figma · GitHub**
+- 🌱 &nbsp;Sempre estudando e evoluindo como dev
+- 💬 &nbsp;Aberto a oportunidades em frontend, mobile ou full-stack
 
----
+</td>
+<td width="40%" valign="top" align="center">
 
-### 📌 Projetos em destaque
+<img src="https://github-readme-stats.vercel.app/api?username=4rthur-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
 
-- 🔎 [**API-Busca-de-CEP**](https://github.com/4rthur-dev/API-Busca-de-CEP) — Aplicação desktop em Python (PyQt5) que consulta a API ViaCEP para buscar endereços a partir de um CEP.
-- 🌦️ [**API-Weather**](https://github.com/4rthur-dev/API-Weather) — API em Python com interface gráfica PyQt para exibir informações climáticas de qualquer cidade.
-- 📱 [**TELA-IMC--CALCULADORA**](https://github.com/4rthur-dev/TELA-IMC--CALCULADORA) — App Flutter com calculadora básica e cálculo de IMC.
-- 🏦 [**Sistema-Bancario-Java**](https://github.com/4rthur-dev/Sistema-Bancario-Java) — Simulador de operações bancárias em Java, com foco em POO.
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 📊 Estatísticas do GitHub
+## 🧰 Stack & Ferramentas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=4rthur-dev&show_icons=true&theme=default" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rthur-dev&layout=compact&theme=default" alt="Linguagens mais usadas" height="165"/>
-</p>
+<div align="center">
 
----
+**Linguagens & Frameworks**
 
-<p align="center">
-  💡 Aberto a oportunidades e projetos que envolvam frontend, mobile ou soluções full-stack.
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,dart,flutter&theme=dark" />
+
+<br/><br/>
+
+**Banco de dados & Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=mysql,vscode,figma,git,github&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rthur-dev&layout=compact&theme=tokyonight&hide_border=true" width="46%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4rthur-dev&theme=tokyonight&hide_border=true" width="46%"/>
+
+</div>
+
+<br/>
+
+## 📌 Projetos em destaque
+
+<div align="center">
+
+<a href="https://github.com/4rthur-dev/API-Busca-de-CEP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rthur-dev&repo=API-Busca-de-CEP&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/4rthur-dev/API-Weather">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rthur-dev&repo=API-Weather&theme=tokyonight&hide_border=true" />
+</a>
+<br/>
+<a href="https://github.com/4rthur-dev/TELA-IMC--CALCULADORA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rthur-dev&repo=TELA-IMC--CALCULADORA&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/4rthur-dev/Sistema-Bancario-Java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rthur-dev&repo=Sistema-Bancario-Java&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:007ACC&height=100&section=footer"/>
+
+</div>
